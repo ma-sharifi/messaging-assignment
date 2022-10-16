@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: messages-assignment
+server:
+  port: 8080
+
+logging:
+  level:
+    ROOT: INFO
+    com.example: DEBUG
+
+
+externalserver:
+  url: http://localhost:8181/mock_external_service
+scheduler:
+  cron: 0 0 23 * * *
+  zone: Europe/Amsterdam
