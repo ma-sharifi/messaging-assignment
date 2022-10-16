@@ -1,4 +1,4 @@
-# Coding Assignment for Adevinta
+# Coding Assignment for A Company
 
 This document follows [RFC2119](https://www.ietf.org/rfc/rfc2119.txt) notation.
 
